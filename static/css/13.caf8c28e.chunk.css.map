@@ -1,0 +1,1 @@
+{"version":3,"sources":["D:\\Projects\\ieducate_dashboard/src\\views\\Courses\\courses.scss"],"names":[],"mappings":"AAAA,2BAEQ,uBAAwB","file":"13.caf8c28e.chunk.css","sourcesContent":[".course-form {\r\n    .modal-footer {\r\n        margin: 15px -15px -15px;\r\n    }\r\n}"]}

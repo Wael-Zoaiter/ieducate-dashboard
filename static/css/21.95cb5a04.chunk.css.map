@@ -1,0 +1,1 @@
+{"version":3,"sources":["D:\\Projects\\ieducate_dashboard/src\\views\\Groups\\groups.scss"],"names":[],"mappings":"AAAA,0BAEQ,uBAAwB","file":"21.95cb5a04.chunk.css","sourcesContent":[".group-form {\r\n    .modal-footer {\r\n        margin: 15px -15px -15px;\r\n    }\r\n}"]}

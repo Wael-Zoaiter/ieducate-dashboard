@@ -1,0 +1,1 @@
+{"version":3,"sources":["D:\\Projects\\ieducate_dashboard/src\\views\\Categories\\categories.scss"],"names":[],"mappings":"AAAA,6BAEQ,uBAAwB","file":"25.e91e24d0.chunk.css","sourcesContent":[".category-form {\r\n    .modal-footer {\r\n        margin: 15px -15px -15px;\r\n    }\r\n}"]}
