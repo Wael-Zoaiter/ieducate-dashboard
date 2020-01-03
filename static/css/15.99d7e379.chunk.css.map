@@ -1,0 +1,1 @@
+{"version":3,"sources":["D:\\Projects\\ieducate_dashboard/src\\views\\Teachers\\teachers.scss"],"names":[],"mappings":"AAAA,4BAEQ,uBAAwB","file":"15.99d7e379.chunk.css","sourcesContent":[".teacher-form {\r\n    .modal-footer {\r\n        margin: 15px -15px -15px;\r\n    }\r\n}"]}
